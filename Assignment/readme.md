@@ -1,3 +1,3 @@
 All assignmnets will be here
 
-[Assignment1](assignment/assignment1.md)
+[Assignment1](assignment1.md)
